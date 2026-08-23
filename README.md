@@ -26,6 +26,10 @@ VELORA is a responsive fashion promotional HTML email campaign created as a hand
 - Inline CSS
 - VML
 
+## Live Demo
+
+[View Live Email](https://suraj6621.github.io/velora-html-email/)
+
 ## Project Structure
 
 ```text
