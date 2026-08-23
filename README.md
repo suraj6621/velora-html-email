@@ -15,7 +15,7 @@ VELORA is a responsive fashion promotional HTML email campaign created as a hand
 - CTA buttons
 - Outlook VML CTA fallback
 - MSO conditional comments
-- Email-specific layout and spacing techniques
+- Email-client compatibility and layout techniques
 
 ## Technologies
 
